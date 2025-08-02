@@ -1,4 +1,4 @@
-package art.ourhyt.learn_java.application.service.impl;
+package art.ourhyt.learn_java.application.service;
 
 import art.ourhyt.learn_java.domain.model.ExternalUser;
 import art.ourhyt.learn_java.domain.port.in.CreateExternalUserFetch;

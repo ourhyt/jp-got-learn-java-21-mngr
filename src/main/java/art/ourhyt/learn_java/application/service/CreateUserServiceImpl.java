@@ -1,4 +1,4 @@
-package art.ourhyt.learn_java.application.service.impl;
+package art.ourhyt.learn_java.application.service;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
