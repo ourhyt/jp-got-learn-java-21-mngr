@@ -1,0 +1,35 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# VSCode
+.vscode/
+
+# IntelliJ / JetBrains
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Lombok generated files (optional)
+lombok.config
+
+# Others
+.env
+*.swp
